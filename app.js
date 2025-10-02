@@ -8,10 +8,10 @@ const { evenNumber , oddNumber } = require("./oddEvenChecker");
 
 console.log("This is main file!!!");
 
-let number1 = 24;
+let number = 24;
 
-evenNumber(number1)
-oddNumber(number1)
+evenNumber(number)
+oddNumber(number)
 
 
 // GLOBAL OBJECT 
